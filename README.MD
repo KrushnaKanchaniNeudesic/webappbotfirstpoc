@@ -1,9 +1,9 @@
 # Description
-Boat integrated with sample Kb data which canbe found [sampledata](./sampledata) folder also intgreted with custom vision (person with an image)
+Boat integrated with sample Kb data which canbe found [sampledata](./sampleKBdata) folder also intgreted with custom vision (person with an image)
  
  ## Custome API VISION
   If we add attachment of person with helmet we wil recive person with helmet text. 
-  images will be found at [images](/images)
+  images will be found at [images](./images)
 
 # Prerequisites
 - [Node.js](https://nodejs.org) version 10.14 or higher
